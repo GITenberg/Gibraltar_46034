@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37206
     wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Field_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46034#Gibraltar
 gutenberg_issued: '2014-06-19'
 gutenberg_type: Text
 identifiers:
